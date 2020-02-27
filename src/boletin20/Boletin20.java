@@ -21,9 +21,9 @@ public class Boletin20 {
         int opcion;        
          do{
             opcion= Integer.parseInt(JOptionPane.showInputDialog("     Menu      "
-                                                             + "\n1.Crear Xogador"
+                                                             + "\n1.Crear Librp"
                                                              + "\n2.Amosar"                            
-                                                             + "\n3.Amosar Xogador Buscado Por  Numero"
+                                                             + "\n3.Amosar libro Buscado Por  ISBN"
                                                              + "\n4.Dar de baixa"
                                                              + "\n5.Sair"));
             switch(opcion){                
